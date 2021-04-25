@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1> My React App</h1>
-      <h2> Author: Dom Bello</h2>
+      <h2> Author: Dylan, Jorge, Dominick</h2>
       <img src={profileImage} alt="profile-image" />
     </div>
   );
