@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CSC431_PlantPower/static/css/main.ecf9664d.chunk.css",
-    "main.js": "/CSC431_PlantPower/static/js/main.32692b3c.chunk.js",
-    "main.js.map": "/CSC431_PlantPower/static/js/main.32692b3c.chunk.js.map",
+    "main.js": "/CSC431_PlantPower/static/js/main.630e2285.chunk.js",
+    "main.js.map": "/CSC431_PlantPower/static/js/main.630e2285.chunk.js.map",
     "runtime-main.js": "/CSC431_PlantPower/static/js/runtime-main.3c67f4b7.js",
     "runtime-main.js.map": "/CSC431_PlantPower/static/js/runtime-main.3c67f4b7.js.map",
     "static/js/2.bbd1ba62.chunk.js": "/CSC431_PlantPower/static/js/2.bbd1ba62.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3c67f4b7.js",
     "static/js/2.bbd1ba62.chunk.js",
     "static/css/main.ecf9664d.chunk.css",
-    "static/js/main.32692b3c.chunk.js"
+    "static/js/main.630e2285.chunk.js"
   ]
 }
